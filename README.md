@@ -3,7 +3,9 @@
 
 
 2)Run commands to make migratiosn and create superuser credentials - username:admin pass: admin
+
   *)python manage.py makemigrations
+  
   *)python manage.py migrate
 		
 		
